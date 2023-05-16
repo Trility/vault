@@ -35,6 +35,7 @@ override.tf.json
 terraform.rc
 
 terraform.auto.tfvars
+terraform.tf
 
 keys
 tls/*
